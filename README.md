@@ -1,2 +1,3 @@
-# Alt-H1 baptiste-python
-Scratch pad for playing around with Python
+baptiste-python
+===============
+A scratch pad for playing around with Python
